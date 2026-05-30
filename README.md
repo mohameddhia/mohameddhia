@@ -27,7 +27,12 @@ I specialize in:
 I build systems that scale — not demos that impress.
 
 ---
-
+## 🔬 Research Focus
+I am transitioning from industrial distributed systems engineering to academic research. My interests lie at the intersection of:
+- **Byzantine Fault Tolerance & Consensus:** Scalable replication and consistency in adversarial environments.
+- **Distributed Systems:** High-performance cloud-native infrastructure, resource orchestration, and edge-to-cloud computing.
+- **Blockchain Systems:** Scalable execution models, game-theoretic security, and formal verification of decentralized protocols.
+---
 ## 🚀 Core Architecture Expertise
 
 ### Backend & Distributed Systems
